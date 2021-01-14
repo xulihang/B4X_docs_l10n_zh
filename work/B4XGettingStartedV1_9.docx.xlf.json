@@ -5,10 +5,12 @@
             "word\/document.xml": [
                 [
                     "B4X Booklets",
-                    "",
+                    "B4X手册",
                     "B4X Booklets",
                     "word\/document.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610599819856,
                         "id": "NFDBB2FA9-tu1"
                     }
                 ],
@@ -86,64 +88,78 @@
                 ],
                 [
                     "B4X   Getting started",
-                    "",
+                    "B4X入门",
                     "B4X   Getting started",
                     "word\/document.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610599859512,
                         "id": "NFDBB2FA9-tu5"
                     }
                 ],
                 [
                     "Copyright:",
-                    "",
+                    "Copyright:",
                     "Copyright:",
                     "word\/document.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610599874552,
                         "id": "NFDBB2FA9-tu6"
                     }
                 ],
                 [
                     "© 2020 Anywhere Software<x1\/>Edition 1.9",
-                    "",
+                    "© 2020 Anywhere Software<x1\/>Edition 1.9",
                     " © 2020 Anywhere Software<x1\/>Edition 1.9",
                     "word\/document.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610599876336,
                         "id": "NFDBB2FA9-tu6"
                     }
                 ],
                 [
                     "Last update :",
-                    "",
+                    "上次更新：",
                     "Last update :",
                     "word\/document.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610599878443,
                         "id": "NFDBB2FA9-tu7"
                     }
                 ],
                 [
                     "2020.09.21",
-                    "",
+                    "2020.09.21",
                     "  2020.09.21",
                     "word\/document.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610599881276,
                         "id": "NFDBB2FA9-tu7"
                     }
                 ],
                 [
                     "Main contributors:",
-                    "",
+                    "主要贡献者：",
                     "Main contributors:",
                     "word\/document.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610599884791,
                         "id": "NFDBB2FA9-tu9"
                     }
                 ],
                 [
                     "Klaus Christl  (klaus), Erel Uziel  (Erel)",
-                    "",
+                    "Klaus Christl  (klaus), Erel Uziel  (Erel)",
                     "  Klaus Christl  (klaus), Erel Uziel  (Erel)",
                     "word\/document.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610599891416,
                         "id": "NFDBB2FA9-tu9"
                     }
                 ],
